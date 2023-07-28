@@ -21,15 +21,15 @@ Line 6 Your monitor's width in pixels (x resolution)<br>
 <br>
 Line 7 Your monitor's height in pixels (y resolution)<br>
 <br>
-==========================================================================br>
+==========================================================================<br>
 Usage:<br>
-==========================================================================br>
+==========================================================================<br>
 <br>
 By default, the activation key is "PAGE DOWN" by default. This can be changed in options.txt. The activation key toggles Bubble Popper. To terminate the Launcher program, simply open the system tray, and right click the icon. <br>
 <br>
-==========================================================================br>
+==========================================================================<br>
 Build:<br>
-==========================================================================br>
+==========================================================================<br>
 <br>
 mingw:<br>
   run build.bat<br>
