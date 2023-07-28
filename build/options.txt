@@ -1,0 +1,7 @@
+OPTIONS! 1: absolute Bubble Popper Path, 2: Icon Path 3: activation keycode 4: music (true/false) 5: screen width 6: screen height (if taskbar always visible, subtract 40)
+"E:/GithubRepos/Bubble-Popper/build/BubblePopper.exe"
+./resources/Icons/Icon.ico
+34
+true
+1920
+1040

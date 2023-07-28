@@ -1,0 +1,2 @@
+default:
+	g++ ../main.cpp -o ../../build/BubblePopper.exe -O2 -Wall -Wno-missing-braces -I ../include/ -I ../Resources/ -L ../lib/ -static -static-libgcc -static-libstdc++ -lraylib -lopengl32 -lgdi32 -lwinmm -std=c++17 -mwindows
